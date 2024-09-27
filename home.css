@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.arrays-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    color: #36454F;
+}
+p {
+    color: #36454F;
+}
+/* code {
+    font-family: Consolas, monospace;
+    background-color: #f4f4f4;
+    padding: 4px 6px;
+    border-radius: 4px;
+} */
+.code-section {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    padding: 10px;
+    font-family: monospace, Consolas, "Courier New", Courier, sans-serif;
+  }
+  /* here i am gonna styling the arrays method list  */
+  ol{
+    /* list-style-type:decimal; */
+    list-style: none;
+    margin-left: 20px;
+    padding-left: 0;
+  }
+  li{
+    margin-bottom: 10px;
+    color: #36454F;
+  }
+  .method-name{
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .method-description{
+    margin-left: 10px;
+  }
+  .styled-colon{
+    font-weight: bold;
+    color: #36454F;
+    font-size: 1.2rem;
+    margin-left: 3px;
+  }
+ 

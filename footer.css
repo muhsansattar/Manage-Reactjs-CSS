@@ -1,0 +1,24 @@
+footer{
+    background-color:#FFFFE0;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    margin-top: 50px;
+  }
+  .privacy a{
+    text-decoration: none;
+    color:#36454F;
+    font-size: 1.4rem;
+    transition: color o.3 ease;
+  }
+  .privacy a:hover{
+    color: #0056b3;
+  }
+  .footer-container{
+    margin-top: 10px;
+  }
+  .footer-container p{
+    margin: 0;
+    color:#36454F;
+    font-size: 14px;
+  }
